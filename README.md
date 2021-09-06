@@ -63,7 +63,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 *Ps. O conteudo que não conter link, é um assunto essencial porém achado apenas nos livros indicados e estarei trabalhando em criar um artigo apenas para isso.
 
-PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras nacionais e internacionais com acesso as diferentes areas dos HFT's, os artigos mais avançados serão mais focados nesse tipo de conteudo (Day trade - HFT's - Programação), infelizmente não sou a melhor pessoa para dar opiniões mais avançadas em outras areas como a analise fundamentalista, mas se você for.. sinta-se a vontade de antes criar um post e depois entrar em contato.*
+*PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras nacionais e internacionais com acesso as diferentes areas dos HFT's, os artigos mais avançados serão mais focados nesse tipo de conteudo (Day trade - HFT's - Programação), infelizmente não sou a melhor pessoa para dar opiniões mais avançadas em outras areas como a analise fundamentalista, mas se você for.. sinta-se a vontade de antes criar um post e depois entrar em contato.
 
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
 - [Como começar a investir em ações](https://www.investopedia.com/articles/basics/06/invest1000.asp)
