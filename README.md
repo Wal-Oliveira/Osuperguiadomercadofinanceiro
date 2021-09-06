@@ -18,7 +18,7 @@ Além disso, esta lista tentará ser a mais completa possivel, indo desde os con
 *Quaisquer links em **negrito** são coisas que eu uso atualmente ou usei o suficiente no passado para ter uma boa noção de sua qualidade / funcionalidade, mas isso não significa que eu os recomendo, apenas que tenho experiência pessoal com eles. Se não estiver em negrito, não significa que nunca o usei, apenas que é algo que uso apenas de vez em quando ou que me pareceu útil num relance. Resumindo, em relação a toda essa lista, não sou seu consultor financeiro. **Faça sua própria diligência e fale com um profissional antes de tomar qualquer decisão financeira.***
 
 
-# <a id="toc"></a>Conteúdos:
+# <a id="toc"></a>Tabela de Conteúdos:
 - [INICIO](#getting-started)
 - [CONTEÚDOS FUNDAMENTAIS](#brokers)
 	- [Avançados (Daytrading)](#brokers-investing)
@@ -87,7 +87,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Importancia do gerenciamento de risco e do gerenciamento financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [entender o motivo de não existir uma formula magica](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [A psicologia por tras de quem vende curso para day trading](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 
 **<a id="brokers"></a>Conteúdos Fundamentais**
@@ -119,7 +119,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Backtest](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 
 
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 
 
@@ -129,7 +129,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Gerenciamento Financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [Gerenciamento Intra-Trade](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 
 **<a id="brokers-active"></a>Psicologia**
@@ -137,7 +137,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Ferramentas uteis](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [Como não deixar o mental lhe ap](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="brokers-canadian"></a>Erros Comuns**
 
@@ -146,19 +146,19 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Erros no gerenciamento de risco e financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [Erros psicologicos](https://www.investopedia.com/articles/basics/06/invest1000.asp)
  
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 
 **<a id="brokers-european"></a>Corretoras e Plataformas**
 - [ProfitPro](https://www.degiro.eu/)
 - [MQL](https://www1.interactivebrokers.com/en/home.php)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="brokers-reviews"></a>Ferramentas úteis**- 
 - **[Finviz - Cheio de ferramentas para pesquisas internacionais e nacionais](https://finviz.com/map.ashx?t=geo)**
 - **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**)
 
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="research"></a>Onde se aprimorar, como se aprimorar e livros**
 - **[Livros](https://finviz.com/map.ashx?t=geo)**
@@ -180,7 +180,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Stock Market Analytics](https://www.equitieslab.com/)
 - [Market Chameleon](https://www.marketchameleon.com/)
 - [CityFALCON - Personalized Financial News Feed and Data Warehouse](https://www.cityfalcon.com/)
-###### [TOC](#toc)
+###### [TDC](#toc)
 
 ---
 **<a id="ta-education"></a>ANALISE TÉCNICA (Educação):**
@@ -189,7 +189,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - **[Technical Analysis of Stocks](https://www.youtube.com/watch?v=08R_TJhAOGo)**
 - **[LazyFA Technical Analysis Playlist](https://www.youtube.com/playlist?list=PLJ94CeEi9Aa4AgpRGVamvnPm3DjvashL3)**
 - **[COVID-19 Bear Market Analysis](https://www.youtube.com/watch?v=kJQWvIx5yuE)**
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="ta-tools"></a>ANALISE TÉCNICA (Ferramentas/Recursos):**
 - **[TradingView](https://www.tradingview.com)**
@@ -198,7 +198,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
 - **[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)** *(AKA ToS, from TD Ameritrade)*
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="fa-education"></a>Análise Fundamentalista (Educação):**
 - **[Investopedia Fundamental Analysis Category](https://www.investopedia.com/fundamental-analysis-4689757)**
@@ -209,7 +209,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [/r/Stocks Fundamentals Wiki](https://www.reddit.com/r/stocks/wiki/fundamentals-themed-post)
 - **[LazyFA Knowledge Base](https://www.lazyfa.com/blog/)**
 - [MarketWatch - Guide to Analyst Recommendations](https://www.marketwatch.com/tools/guide.asp)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="fa-tools"></a>Análise Fundamentalista (Ferramentas/Recursos):**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
@@ -227,7 +227,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
 - [sharelab - US Stock Comparison Based on Empirical Finance Academia](https://www.sharelab.com)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS E IDEIAS:**
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
@@ -248,7 +248,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
 - [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
 - [Ortex.com - ORTEX](https://www.ortex.com)
-###### [TOC](#toc)
+###### [TDC](#toc)
 
 ---
 **<a id="books"></a>LIVROS:**
@@ -260,7 +260,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
 	- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 	- [/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)
-###### [TOC](#toc)
+###### [TDC](#toc)
 - <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
 	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
@@ -277,7 +277,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [The New Trading for a Living: Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management](https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926/)
 	- [Trading from Your Gut: How to Use Right Brain Instinct & Left Brain Smarts to Become a Master Trader](https://www.amazon.com/Trading-Your-Gut-Instinct-Smarts/dp/B002YYWEKO)
 	- [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
-###### [TOC](#toc)
+###### [TDC](#toc)
 - <a id="books-valuation-and-accounting-tricks"></a>Valuation and Accounting Tricks
 	- [Beyond Earnings](https://www.amazon.com/Beyond-Earnings-Applying-Economic-Framework/dp/1119440483)
 	- [Financial Modeling & Valuation](https://www.amazon.com/Financial-Modeling-Valuation-Practical-Investment/dp/1118558766)
@@ -288,7 +288,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [The Dark Side of Valuation](https://www.amazon.com/gp/product/B07CMB4L7N)
 	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
 	- [How to Keep Score in Business - Accounting and Financial Analysis for the Non-Accountant](https://www.amazon.com/How-Keep-Score-Business-Non-Accountant-ebook/dp/B005WTAHRA)
-###### [TOC](#toc)
+###### [TDC](#toc)
 - <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
 	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
 	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
@@ -313,13 +313,13 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron](https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591846609/)
 	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
 	
-###### [TOC](#toc)
+###### [TDC](#toc)
 - <a id="books-options"></a>Options
 	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
 	- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
 	- [Options Made Easy: Your Guide to Profitable Trading (3rd Edition)](https://www.amazon.com/Options-Made-Easy-Profitable-Trading/dp/0133087891/)
 	- [The Only Options Trading Book You'll Ever Need](https://www.amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="youtube"></a>YOUTUBE CHANNELS:**
 - **[LazyFA - Lots of Educational Livestreams/Webinars](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
@@ -330,7 +330,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - **[Quoth The Raven Research - Speeches/Podcasts](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
 - **[Chat With Traders - Tons of Awesome Interviews](https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg)**
 - **[0 to Hero Investing - Market Commentary and Stock Analysis](https://www.youtube.com/c/0toHeroInvesting)**
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="movies-docs"></a>Filmes/Documentarios do Mercado Financeiro:**
 - **[The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)**
@@ -344,18 +344,18 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - **[Enron: The Smartest Guys in the Room](https://www.imdb.com/title/tt1016268)**
 - [Wall Street: Money Never Sleeps](https://www.imdb.com/title/tt1027718)
 - **[Dirty Money: Drug Short](https://www.imdb.com/title/tt7909184)**
-###### [TOC](#toc)
+###### [TDC](#toc)
 ---
 **<a id="developers"></a>RECURSOS PARA PROGRAMADORES**
 - <a id="developers-general"></a>General Resources
 	- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
 	- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
-	###### [TOC](#toc)
+	###### [TDC](#toc)
 
 - <a id="developers-engines"></a>Algo Trading Engines
 	- [QuantConnect](https://www.quantconnect.com)
 	- [LEAN Algorithmic Trading Engine](https://www.lean.io/)
-	###### [TOC](#toc)
+	###### [TDC](#toc)
 
 - <a id="developers-data"></a>Data APIs
 	- **[Tiingo - Enterprise Grade Financial Markets API](https://api.tiingo.com/)**
@@ -367,4 +367,4 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
 	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
-	###### [TOC](#toc)
+	###### [TDC](#toc)
