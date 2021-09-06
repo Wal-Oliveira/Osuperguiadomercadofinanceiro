@@ -88,6 +88,7 @@ PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras na
 - [entender o motivo de não existir uma formula magica](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [A psicologia por tras de quem vende curso para day trading](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 ###### [TOC](#toc)
+---
 
 **<a id="brokers"></a>Conteúdos Fundamentais**
 
@@ -129,6 +130,7 @@ PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras na
 - [Gerenciamento Intra-Trade](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 
 ###### [TOC](#toc)
+---
 
 **<a id="brokers-active"></a>Psicologia**
 
@@ -136,7 +138,7 @@ PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras na
 - [Como não deixar o mental lhe ap](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 
 ###### [TOC](#toc)
-
+---
 **<a id="brokers-canadian"></a>Erros Comuns**
 
 - [Erros com operacional](https://www.investopedia.com/articles/basics/06/invest1000.asp)
@@ -145,12 +147,13 @@ PPs. Por eu ser **especialista em Day Trading**, ter trabalhado em corretoras na
 - [Erros psicologicos](https://www.investopedia.com/articles/basics/06/invest1000.asp)
  
 ###### [TOC](#toc)
+---
 
 **<a id="brokers-european"></a>Corretoras e Plataformas**
 - [ProfitPro](https://www.degiro.eu/)
 - [MQL](https://www1.interactivebrokers.com/en/home.php)
 ###### [TOC](#toc)
-
+---
 **<a id="brokers-reviews"></a>Ferramentas úteis**- 
 - **[Finviz - Cheio de ferramentas para pesquisas internacionais e nacionais](https://finviz.com/map.ashx?t=geo)**
 - **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**)
