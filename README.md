@@ -57,7 +57,7 @@ Tenha em mente que: Nenhuma das abordagens o tornará rico rapidamente, isso é 
 
 O investimento ativo exige uma grande quantidade de trabalho, estudo e pesquisa, e a maioria das pessoas não vai superar os retornos do mercado no longo prazo. Se você é novo em folha, é melhor começar com abordagens passivas enquanto você começa a aprender sobre estratégias mais ativas e, gradualmente, trabalhar para se tornar mais e mais ativo. Tenha em mente o seguinte: Pressa é inimiga do mercado financeiro. Se você precisa urgentemente de dinheiro, seu lugar dificilmente será o mercado. São raros os casos, mas é basicamente igual a colocar todo seu dinheiro que irá aportar em um só jogo da mega-sena.
 
-(A unica pessoa que vai lhe falar o contrario disso, são os vendedores de cursos baratos, que vão dar o melhor que eles puderem para você entender que é tudo muito fácil, pra "atrair você para o mercado..." ou melhor, a comprar o curso deles. Você pode ler o meu posicionamento sobre isso [aqui](https://medium.com/@waloliveira/a-psicologia-por-tr%C3%A1s-de-quem-vende-curso-para-day-trading-no-brasil-ee310fdf5ba3)).
+(A unica pessoa que vai lhe falar o contrario disso, são os vendedores de cursos baratos, que vão dar o melhor que eles puderem para você entender que é tudo muito fácil, pra "atrair você para o mercado..." ou melhor, a comprar o curso deles. Você pode ler o meu posicionamento sobre isso no artigo que eu escrevi chamado ["A psicologia por trás de quem vende curso para day trading no Brasil"](https://medium.com/@waloliveira/a-psicologia-por-tr%C3%A1s-de-quem-vende-curso-para-day-trading-no-brasil-ee310fdf5ba3)).
 
 Boa sorte nessa jornada, Que você tenha muito sucesso!
 
