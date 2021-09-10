@@ -33,11 +33,10 @@ Além disso, esta lista tentará ser a mais completa possivel, indo desde os con
 - [Análise Fundamentalista (Educação)](#fa-education)
 	- [Análise Fundamentalista (Ferramentas/Recursos)](#fa-education)
 	- [Tools](#fa-tools)
-- [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
+- [SCANNERS, SCREENERS & IDEIAS](#scanners)
 - [Livros](#books)
 	- [Mercado Financeiro no Geral/Sem Categoria](#books-general)
 	- [Trading ativo e Especulação](#books-active-trading-and-speculation)
-	- [Valuation and Macetes de contabilidade](#books-valuation-and-accounting-tricks)
 	- [Historia/Psicologia Financeira](#books-financial-history-and-psychology)
 	- [Opções](#books-options)
 - [FILMES/DOCUMENTARIOS MERCADO FINANCEIRO](#movies-docs)
@@ -250,7 +249,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 ---
 **<a id="books"></a>LIVROS:**
-- <a id="books-general"></a>General Stock Market/Uncategorized
+- <a id="books-general"></a> Mercado financeiro/Sem categoria
 	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 	- [How to Make Money in Stocks: A Winning System in Good Times and Bad](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/B00916ARYS)
 	- [Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)
@@ -259,7 +258,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 	- [/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)
 ###### [TDC](#toc)
-- <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
+- <a id="books-active-trading-and-speculation"></a>Trading Ativo e Especulação
 	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
 	- [Getting Started in Chart Patterns](https://www.amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
@@ -276,18 +275,8 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [Trading from Your Gut: How to Use Right Brain Instinct & Left Brain Smarts to Become a Master Trader](https://www.amazon.com/Trading-Your-Gut-Instinct-Smarts/dp/B002YYWEKO)
 	- [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
 ###### [TDC](#toc)
-- <a id="books-valuation-and-accounting-tricks"></a>Valuation and Accounting Tricks
-	- [Beyond Earnings](https://www.amazon.com/Beyond-Earnings-Applying-Economic-Framework/dp/1119440483)
-	- [Financial Modeling & Valuation](https://www.amazon.com/Financial-Modeling-Valuation-Practical-Investment/dp/1118558766)
-	- [Financial Shenanigans: How to Detect Accounting Gimmicks & Fraud in Financial Reports](https://www.amazon.com/Financial-Shenanigans-Fourth-Accounting-Gimmicks/dp/B0764LJJH9)
-	- [Investment Banking](https://www.amazon.com/Investment-Banking-Valuation-Leveraged-Acquisitions-ebook/dp/B00CLPF85E)
-	- [Investment Valuation](https://www.amazon.com/Investment-Valuation-Techniques-Determining-Second/dp/0471414883)
-	- [Security Analysis and Business Valuation on Wall Street](https://www.amazon.com/Security-Analysis-Business-Valuation-Companion/dp/0470277343)
-	- [The Dark Side of Valuation](https://www.amazon.com/gp/product/B07CMB4L7N)
-	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
-	- [How to Keep Score in Business - Accounting and Financial Analysis for the Non-Accountant](https://www.amazon.com/How-Keep-Score-Business-Non-Accountant-ebook/dp/B005WTAHRA)
-###### [TDC](#toc)
-- <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
+
+- <a id="books-financial-history-and-psychology"></a>Historia/Psicologia Financeira
 	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
 	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
 	- [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554/)
@@ -312,26 +301,25 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
 	
 ###### [TDC](#toc)
-- <a id="books-options"></a>Options
+- <a id="books-options"></a>Opções
 	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
 	- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
 	- [Options Made Easy: Your Guide to Profitable Trading (3rd Edition)](https://www.amazon.com/Options-Made-Easy-Profitable-Trading/dp/0133087891/)
 	- [The Only Options Trading Book You'll Ever Need](https://www.amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 ###### [TDC](#toc)
 ---
-**<a id="youtube"></a>YOUTUBE CHANNELS:**
-- **[LazyFA - Lots of Educational Livestreams/Webinars](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
-- **[Jose Najarro Stocks - Excellent Fundamental Analysis and Research](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
-- **[Invest with Sven Carlin, Ph.D.](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
-- **[Bulls on Wall Street - Lots of Technical Analysis/Active Trading Stuff](https://www.youtube.com/user/bullsonwallstreet/)**
-- **[Investors Underground - Same as Above](https://www.youtube.com/user/investorsunderground/)**
-- **[Quoth The Raven Research - Speeches/Podcasts](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
-- **[Chat With Traders - Tons of Awesome Interviews](https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg)**
-- **[0 to Hero Investing - Market Commentary and Stock Analysis](https://www.youtube.com/c/0toHeroInvesting)**
+**<a id="youtube"></a>CANAIS DO YOUTUBE:**
+
+- **[OGRO DE WALL STREET](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
+- **[STORMER](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
+- **[PALEX](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
+- **[MOL Análise](https://www.youtube.com/user/bullsonwallstreet/)**
+- **[TEORIA DE WAL (eu)](https://www.youtube.com/user/investorsunderground/)**
+
 ###### [TDC](#toc)
 ---
 **<a id="movies-docs"></a>Filmes/Documentarios do Mercado Financeiro:**
-- **[The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)**
+- **[O Lobo de Wall Street](https://www.imdb.com/title/tt0993846/)**
 - **[Inside the Meltdown](https://www.imdb.com/title/tt1358314)**
 - **[Boiler Room](https://www.imdb.com/title/tt0181984/)**
 - **[Too Big to Fail](https://www.imdb.com/title/tt1742683)**
@@ -345,12 +333,12 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 ###### [TDC](#toc)
 ---
 **<a id="developers"></a>RECURSOS PARA PROGRAMADORES**
-- <a id="developers-general"></a>General Resources
+- <a id="developers-general"></a>Recursos em geral
 	- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
 	- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
 	###### [TDC](#toc)
 
-- <a id="developers-engines"></a>Algo Trading Engines
+- <a id="developers-engines"></a>Engines para  Algo Trading
 	- [QuantConnect](https://www.quantconnect.com)
 	- [LEAN Algorithmic Trading Engine](https://www.lean.io/)
 	###### [TDC](#toc)
