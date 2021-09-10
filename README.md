@@ -67,7 +67,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 - [O que é o mercado financeiro](https://www.suno.com.br/guias/mercado-financeiro/)
 - [Como funciona a bolsa de valores](https://blog.toroinvestimentos.com.br/bolsa-de-valores-brasil?utm_source=google&utm_medium=cpc&utm_campaign=13987880586&utm_content=&utm_term=&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dMhDiAXWTmucmB8bs5yt-ER73n2frriJgnd1P862v74BmrEz42GHX8aAujGEALw_wcB)
-- [Guia fundamental no que você precisa aprender primeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp) 
+- [Guia fundamental no que você precisa aprender primeiro](https://my.visme.co/view/1jy43893-oq6lx9kp0ggnl9wp) 
 - [Entender o motivo de não existir uma formula magica](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [A psicologia por tras de quem vende curso para day trading](https://medium.com/@waloliveira/a-psicologia-por-tr%C3%A1s-de-quem-vende-curso-para-day-trading-no-brasil-ee310fdf5ba3)
 - [Renda Variavel](https://www.infomoney.com.br/guias/renda-variavel/)
