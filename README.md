@@ -153,7 +153,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [MQL](https://www1.interactivebrokers.com/en/home.php)
 ###### [TDC](#toc)
 ---
-**<a id="brokers-reviews"></a>Ferramentas úteis**- 
+**<a id="brokers-reviews"></a>Ferramentas Úteis** 
 - **[Finviz - Cheio de ferramentas para pesquisas internacionais e nacionais](https://finviz.com/map.ashx?t=geo)**
 - **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**)
 
