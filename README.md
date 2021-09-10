@@ -84,7 +84,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Topos de ordens](https://blog.nelogica.com.br/spread-bid-entenda-seus-conceitos-e-funcionamento-no-mercado-financeiro/)
 - [Custos operacionais e impostos](https://www.capitalresearch.com.br/blog/investimentos/custo-operacional/)
 - [Importancia do gerenciamento de risco e do gerenciamento financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- **[Como começar a investir em ações](https://www.infomoney.com.br/guias/como-investir-em-acoes/)
+- **[Como começar a investir em ações](https://www.infomoney.com.br/guias/como-investir-em-acoes/)**
 ###### [TDC](#toc)
 ---
 
