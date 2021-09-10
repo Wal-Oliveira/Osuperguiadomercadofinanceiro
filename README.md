@@ -78,7 +78,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [HFT's](https://www.suno.com.br/artigos/hft-high-frequency-trading/)
 - [Alavancagem](https://blog.toroinvestimentos.com.br/alavancagem-o-que-e-como-funciona)
 - [Plataformas](https://blog.focalise.com.br/7-plataformas-para-bolsa-de-valores/)
-- [O que é a Analise Técnica](https://blog.focalise.com.br/7-plataformas-para-bolsa-de-valores/)
+- [O que é a Analise Técnica](https://blog.focalise.com.br/7-plataformas-para-bolsa-de-valores/) (*Mais a baixo terá uma lista de estudos, ferramentas e recursos separado apenas para esse tópico)*
 - [O que são indicadores](https://portaldoinvestimento.com.br/objetivos/como-montar-uma-carteira-de-acoes-vencedora/como-funcionam-os-indicadores-de-analise-tecnica)
 - [Tipos graficos (Vela, renko, Volume, Heikenashi...)](https://portaldotrader.com.br/aprenda/analise-tecnica-curso-gratuito/conceitos-adicionais/tipos-de-graficos-linha-barra-candle-e-atemporais)
 - [Topos de ordens](https://blog.nelogica.com.br/spread-bid-entenda-seus-conceitos-e-funcionamento-no-mercado-financeiro/)
