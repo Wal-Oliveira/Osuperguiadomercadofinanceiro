@@ -19,7 +19,7 @@ Além disso, esta lista tentará ser a mais completa possivel, indo desde os con
 
 
 # <a id="toc"></a>Tabela de Conteúdos:
-- [INICIO](#getting-started)
+- [INICIO (Conteúdos básicos)](#getting-started)
 - [CONTEÚDOS FUNDAMENTAIS](#brokers)
 	- [Gerenciamentos](#brokers-investing)
 	- [Psicologia](#brokers-active)
