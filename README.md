@@ -21,7 +21,7 @@ Além disso, esta lista tentará ser a mais completa possivel, indo desde os con
 # <a id="toc"></a>Tabela de Conteúdos:
 - [INICIO](#getting-started)
 - [CONTEÚDOS FUNDAMENTAIS](#brokers)
-	- [Avançados (Daytrading)](#brokers-investing)
+	- [Gerenciamentos](#brokers-investing)
 	- [Psicologia](#brokers-active)
 	- [Erros Comuns](#brokers-canadian)
 	- [Corretoras e Plataformas](#brokers-european)
@@ -120,7 +120,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 ---
 
 
-**<a id="brokers-investing"></a>Avançados (Daytrading)**
+**<a id="brokers-investing"></a>Gerenciamentos**
 
 - [Gerenciamento de Risco](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [Gerenciamento Financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
