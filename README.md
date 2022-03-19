@@ -83,38 +83,38 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 - [Tipos graficos (Vela, renko, Volume, Heikenashi...)](https://portaldotrader.com.br/aprenda/analise-tecnica-curso-gratuito/conceitos-adicionais/tipos-de-graficos-linha-barra-candle-e-atemporais)
 - [Topos de ordens](https://blog.nelogica.com.br/spread-bid-entenda-seus-conceitos-e-funcionamento-no-mercado-financeiro/)
 - [Custos operacionais e impostos](https://www.capitalresearch.com.br/blog/investimentos/custo-operacional/)
-- [Importancia do gerenciamento de risco e do gerenciamento financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- **[Importancia do gerenciamento de risco e do gerenciamento financeiro](https://medium.com/@waloliveira/drawdown-inerte-o-gerenciamento-financeiro-que-funciona-dec165efb426)**
 - **[Como começar a investir em ações](https://www.infomoney.com.br/guias/como-investir-em-acoes/)**
 ###### [TDC](#toc)
 ---
 
 **<a id="brokers"></a>Conteúdos Fundamentais**
 
-*Eu categorizei como **Conteúdos Fundamentais** tudo que for indispensável para um trader poder operar no mercado de maneira ativa, indo mais para a parte de análise técnica/gráfica.*
+*Eu categorizei como **Conteúdos Fundamentais** tudo que for indispensável para um trader poder operar no mercado de maneira ativa, indo mais para a parte de análise técnica/gráfica. Boa parte eu ainda estou criando, fique atento! Estarei sempre atualizando aqui*
 
-- [Video mais importante da sua vida](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Operacionais objetivos e subjetivos](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Importancia de proteger o seu capital](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Importancia de ter uma estatistica de expectativa positiva](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [A importancia de teorias matematicas](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Como ler o mercado/grafico](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Contexto de mercado](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Tendencias, acumulações e distribuições](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Video mais importante da sua vida]
+- [Operacionais objetivos e subjetivos](https://medium.com/@waloliveira/drawdown-inerte-o-gerenciamento-financeiro-que-funciona-dec165efb426)
+- [Importancia de proteger o seu capital]
+- [Importancia de ter uma estatistica de expectativa positiva]
+- [A importancia de teorias matematicas]
+- [Como ler o mercado/grafico - Curso Gratis do Ogro](https://www.https://ogroflix.com.br/)
+- [Contexto de mercado](https://www.materiatrader.com.br/p/guia-pratico-metodo-wyckoff-download.html)
+- [Tendencias, acumulações e distribuições](https://www.materiatrader.com.br/p/guia-pratico-metodo-wyckoff-download.html)
 - [Volume (Wyckoff)](https://academy.binance.com/pt/articles/the-wyckoff-method-explained)
-- [Seu operacional deve condizer com a sua personalidade](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Tipos de stops (Dinamicos, fixos, contingentes...)](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Fibonacci, alvos coerentes atraves de indicadores relevantes](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Como correlacionar o gerenciamento de risco com seu modo de operar](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [A importancia da robustez](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Como alavancar atraves do gerenciamento de risco avançado](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Relação entre risco por entrada e de se obter lucro nela](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Estatistica aplicada no trading](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Diario do trader](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [A importancia da diversificação](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Eliminar/diminuir a importancia do psicologico atraves do operacional](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Seu operacional deve condizer com a sua personalidade]
+- [Tipos de stops (Dinamicos, fixos, contingentes...)]
+- [Fibonacci, alvos coerentes atraves de indicadores relevantes]
+- [Como correlacionar o gerenciamento de risco com seu modo de operar]
+- [A importancia da robustez]
+- [Como alavancar atraves do gerenciamento de risco avançado]
+- [Relação entre risco por entrada e de se obter lucro nela](
+- [Estatistica aplicada no trading]
+- [Diario do trader]
+- [A importancia da diversificação]
+- [Eliminar/diminuir a importancia do psicologico atraves do operacional]
 - [Tape Reading](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Como aumentar o seu payoff para depois aumentar a taxa de acerto](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Backtest](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Como aumentar o seu payoff para depois aumentar a taxa de acerto]
+- [Backtest]
 
 ###### [TDC](#toc)
 ---
@@ -122,68 +122,70 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 **<a id="brokers-investing"></a>Gerenciamentos**
 
-- [Gerenciamento de Risco](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Gerenciamento Financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Gerenciamento Intra-Trade](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Gerenciamento de Risco]
+- [Gerenciamento Financeiro]
+- [Gerenciamento Intra-Trade]
 
 ###### [TDC](#toc)
 ---
 
 **<a id="brokers-active"></a>Psicologia**
 
-- [Ferramentas uteis](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Como não deixar o mental lhe ap](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Ferramentas uteis]
+- [Como não deixar o mental lhe atrapalhar]
+- [Disciplina, a melhor arma]
 
 ###### [TDC](#toc)
 ---
 **<a id="brokers-canadian"></a>Erros Comuns**
 
-- [Erros com operacional](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Erros na hora de agir](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Erros no gerenciamento de risco e financeiro](https://www.investopedia.com/articles/basics/06/invest1000.asp)
-- [Erros psicologicos](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- [Erros com operacional]
+- [Erros na hora de agir]
+- [Erros no gerenciamento de risco e financeiro]
+- [Erros psicologicos]
  
 ###### [TDC](#toc)
 ---
 
 **<a id="brokers-european"></a>Corretoras e Plataformas**
-- [ProfitPro](https://www.degiro.eu/)
-- [MQL](https://www1.interactivebrokers.com/en/home.php)
+- [ProfitPro](https://www.nelogica.com.br/produtos)
+- [MQL](https://www.metatrader5.com/pt)
 ###### [TDC](#toc)
 ---
 **<a id="brokers-reviews"></a>Ferramentas Úteis** 
 - **[Finviz - Cheio de ferramentas para pesquisas internacionais e nacionais](https://finviz.com/map.ashx?t=geo)**
-- **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**)
+- **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**
+- 
 
 ###### [TDC](#toc)
 ---
-**<a id="research"></a>Onde se aprimorar, como se aprimorar e livros**
-- **[Livros](https://finviz.com/map.ashx?t=geo)**
+**<a id="research"></a>Onde se aprimorar, como se aprimorar e livros - Os conteudos a seguir são em Ingles (Estarei trabalhando na tradução de cada link)**
+- **[Finviz - Mapa](https://finviz.com/map.ashx?t=geo)**
 - **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**
-- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
-- **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
-- **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
+- **[LazyFA - Analise Fundamentalista Automatizada](https://www.lazyfa.com/explore/)**
+- **[Barchart - Ferramentas de Analise tecnica e fundamentalista](https://www.barchart.com)**
+- **[Koyfin - Dados gratuitos para investidores](https://www.koyfin.com/)**
 - [Wallmine](https://www.wallmine.com)
 - [Grufity Stock Research](https://grufity.com/stock/)
-- [TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)
-- [The Market Ear - Live Market News/Analysis](https://www.themarketear.com/)
-- [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
-- [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
-- [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
-- [StockComps - Compare Investment Returns](https://www.stockcomps.com/)
-- **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
-- **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
-- [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
-- [Stock Market Analytics](https://www.equitieslab.com/)
+- [TipRanks - Pesquisas de mercado e analises ranqueadas](https://www.tipranks.com/)
+- [The Market Ear - Noticias e Analises ao vivo](https://www.themarketear.com/)
+- [IPOScoop - Informações para IPO's](https://www.iposcoop.com/)
+- [Stockrow - Dados Fundamentalistas, screeners e noticias](https://www.stockrow.com/)
+- [Stock Analysis - Informações em ações](https://www.stockanalysis.com/)
+- [StockComps](https://www.stockcomps.com/)
+- **[BioPharmCatalyst - Pesquisas especificas de Biotech](https://www.biopharmcatalyst.com/)**
+- **[Macrotrends - Perspectiva de longo prazo nos mercados](https://www.macrotrends.net/)**
+- [The Ultimate Investing Checklist - Checklist dos investidores](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
+- [Stock Market Analytics - Analise do mercado de ações](https://www.equitieslab.com/)
 - [Market Chameleon](https://www.marketchameleon.com/)
-- [CityFALCON - Personalized Financial News Feed and Data Warehouse](https://www.cityfalcon.com/)
+- [CityFALCON - Noticias e dados personalisados](https://www.cityfalcon.com/)
 ###### [TDC](#toc)
 
 ---
 **<a id="ta-education"></a>ANALISE TÉCNICA (Educação):**
-- **[Investopedia Technical Analysis](https://www.investopedia.com/technical-analysis-4689657)**
-- [Technical Analysis Strategies for Beginners](https://www.investopedia.com/articles/active-trading/102914/technical-analysis-strategies-beginners.asp)
-- **[Technical Analysis of Stocks](https://www.youtube.com/watch?v=08R_TJhAOGo)**
+- **[Investopedia Technical Analysis - Analise Tecnica completa](https://www.investopedia.com/technical-analysis-4689657)**
+- [Technical Analysis Strategies for Beginners - Estudos de analise tecnica para iniciantes](https://www.investopedia.com/articles/active-trading/102914/technical-analysis-strategies-beginners.asp)
+- **[Technical Analysis of Stocks - Analise de ações](https://www.youtube.com/watch?v=08R_TJhAOGo)**
 - **[LazyFA Technical Analysis Playlist](https://www.youtube.com/playlist?list=PLJ94CeEi9Aa4AgpRGVamvnPm3DjvashL3)**
 - **[COVID-19 Bear Market Analysis](https://www.youtube.com/watch?v=kJQWvIx5yuE)**
 ###### [TDC](#toc)
@@ -209,8 +211,8 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 ###### [TDC](#toc)
 ---
 **<a id="fa-tools"></a>Análise Fundamentalista (Ferramentas/Recursos):**
-- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
-- **[Finviz - Financial Visualizations](https://www.finviz.com)**
+- **[LazyFA - Analise Fundamentalista Automatizada](https://www.lazyfa.com/explore/)**
+- **[Finviz - Visualizações Financeiras](https://www.finviz.com)**
 - **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
 - [Finbox](https://www.finbox.com)
 - [Atom Finance](https://www.atom.finance/)
@@ -308,13 +310,13 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 	- [The Only Options Trading Book You'll Ever Need](https://www.amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 ###### [TDC](#toc)
 ---
-**<a id="youtube"></a>CANAIS DO YOUTUBE:**
+**<a id="youtube"></a>CANAIS DO YOUTUBE BRASILEIROS:**
 
-- **[OGRO DE WALL STREET](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
-- **[STORMER](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
-- **[PALEX](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
-- **[MOL Análise](https://www.youtube.com/user/bullsonwallstreet/)**
-- **[TEORIA DE WAL (eu)](https://www.youtube.com/user/investorsunderground/)**
+- **[OGRO DE WALL STREET](https://www.youtube.com/c/machadoabc)**
+- **[STORMER](https://www.youtube.com/c/StormerOficial)**
+- **[PALEX](https://www.youtube.com/c/ATPalex)**
+- **[MOL Análise](https://www.youtube.com/channel/UCvBbECigS5kkxp7Uu5FJlVg)**
+- **[TEORIA DE WAL (eu)]**
 
 ###### [TDC](#toc)
 ---
