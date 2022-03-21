@@ -138,7 +138,7 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 ###### [TDC](#toc)
 ---
-**<a id="brokers-canadian"></a>Erros Comuns**
+**<a id="brokers-canadian"></a>Erros Comuns** (Encontrados [aqui](https://my.visme.co/view/1jy43893-oq6lx9kp0ggnl9wp))
 
 - [Erros com operacional](https://prnt.sc/J_XaxvRZ5K-m)
 - [Erros na hora de agir](https://prnt.sc/tz1bbALcHu0a)
