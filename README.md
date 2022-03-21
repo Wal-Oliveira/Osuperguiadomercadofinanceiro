@@ -93,28 +93,29 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 *Eu categorizei como **Conteúdos Fundamentais** tudo que for indispensável para um trader poder operar no mercado de maneira ativa, indo mais para a parte de análise técnica/gráfica. Boa parte eu ainda estou criando, fique atento! Estarei sempre atualizando aqui*
 
 - [Video mais importante da sua vida]
-- [Operacionais objetivos e subjetivos](https://medium.com/@waloliveira/drawdown-inerte-o-gerenciamento-financeiro-que-funciona-dec165efb426)
-- [Importancia de proteger o seu capital]
-- [Importancia de ter uma estatistica de expectativa positiva]
-- [A importancia de teorias matematicas]
+- [Operacionais objetivos e subjetivos](https://medium.com/@waloliveira/trader-objetivo-ou-subjetivo-discricionario-e917461805b8)
+- [Importancia de proteger o seu capital](https://medium.com/@waloliveira/drawdown-inerte-o-gerenciamento-financeiro-que-funciona-dec165efb426)
+- [Importancia de ter uma estatistica de expectativa positiva](https://www.rankia.pt/cfds/esperanca-matematica-e-a-probabilidade-de-sucesso/)
+- [A importancia de teorias matematicas](https://medium.com/@waloliveira/traders-precisam-ser-bons-em-matem%C3%A1tica-4ed05503a5e8)
+- [Como obter o maior retorno possível de uma estratégia de trade?](https://ls.com.vc/educacao/artigo/como-obter-o-maior-retorno-possivel-de-uma-estrategia-de-trade)
 - [Como ler o mercado/grafico - Curso Gratis do Ogro](https://www.https://ogroflix.com.br/)
 - [Contexto de mercado](https://www.materiatrader.com.br/p/guia-pratico-metodo-wyckoff-download.html)
 - [Tendencias, acumulações e distribuições](https://www.materiatrader.com.br/p/guia-pratico-metodo-wyckoff-download.html)
 - [Volume (Wyckoff)](https://academy.binance.com/pt/articles/the-wyckoff-method-explained)
-- [Seu operacional deve condizer com a sua personalidade]
+- [Seu operacional deve condizer com a sua personalidade](https://medium.com/@waloliveira/o-motivo-de-n%C3%A3o-existir-uma-formula-magica-no-mercado-financeiro-a0785d86b116)
 - [Tipos de stops (Dinamicos, fixos, contingentes...)]
 - [Fibonacci, alvos coerentes atraves de indicadores relevantes]
 - [Como correlacionar o gerenciamento de risco com seu modo de operar]
 - [A importancia da robustez]
 - [Como alavancar atraves do gerenciamento de risco avançado]
-- [Relação entre risco por entrada e de se obter lucro nela](
 - [Estatistica aplicada no trading]
 - [Diario do trader]
+- [Estatisticas interessantes sobre o mercado - ingles](https://tradeciety.com/24-statistics-why-most-traders-lose-money/#:~:text=Traders%20sell%20winners%20at%20a,40%25%20of%20sales%20are%20losers.&text=The%20average%20individual%20investor%20underperforms,traders%20underperform%20by%206.5%25%20annually.)
 - [A importancia da diversificação]
 - [Eliminar/diminuir a importancia do psicologico atraves do operacional]
 - [Tape Reading](https://www.investopedia.com/articles/basics/06/invest1000.asp)
 - [Como aumentar o seu payoff para depois aumentar a taxa de acerto]
-- [Backtest]
+- [Backtest](https://medium.com/@waloliveira/otimizando-operacionais-atrav%C3%A9s-de-um-backtesting-coerente-73b3c6389ba0)
 
 ###### [TDC](#toc)
 ---
@@ -133,16 +134,16 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 
 - [Ferramentas uteis]
 - [Como não deixar o mental lhe atrapalhar]
-- [Disciplina, a melhor arma]
+- [Disciplina, a melhor arma](https://docs.google.com/document/d/16IezBkmtPnuQpl3iY8I-WToaOwwqD6x6ypwfmGONUOU/edit?usp=sharing)
 
 ###### [TDC](#toc)
 ---
 **<a id="brokers-canadian"></a>Erros Comuns**
 
-- [Erros com operacional]
-- [Erros na hora de agir]
-- [Erros no gerenciamento de risco e financeiro]
-- [Erros psicologicos]
+- [Erros com operacional](https://prnt.sc/J_XaxvRZ5K-m)
+- [Erros na hora de agir](https://prnt.sc/tz1bbALcHu0a)
+- [Erros no gerenciamento de risco e financeiro](https://prnt.sc/jyAXEFyZ0u1D)
+- [Erros psicologicos](https://prnt.sc/ioXXA1Jl2Efn)
  
 ###### [TDC](#toc)
 ---
