@@ -156,7 +156,8 @@ Boa sorte nessa jornada, Que você tenha muito sucesso!
 **<a id="brokers-reviews"></a>Ferramentas Úteis** 
 - **[Finviz - Cheio de ferramentas para pesquisas internacionais e nacionais](https://finviz.com/map.ashx?t=geo)**
 - **[Investing - Calendário Econômico](https://br.investing.com/economic-calendar/)**
-- 
+- **[Edgewonk - Melhor Diario de Trading](https://edgewonk.com/features/)**
+- **[TradeStation - Melhor Backtester pra quem não sabe programar](https://www.tradestation.com/)**
 
 ###### [TDC](#toc)
 ---
